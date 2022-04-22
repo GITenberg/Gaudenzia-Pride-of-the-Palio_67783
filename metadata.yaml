@@ -5,6 +5,9 @@ contributor:
     agent_name: Lynd, Ward
     gutenberg_agent_id: '54457'
     url: http://www.gutenberg.org/2009/agents/54457
+covers:
+- cover_type: archival
+  image_path: 67783-h/images/cover.jpg
 creator:
   author:
     agent_name: Henry, Marguerite
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54202
     wikipedia: https://en.wikipedia.org/wiki/Marguerite_Henry
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67783#Gaudenzia-Pride-of-the-Palio
 gutenberg_issued: '2022-04-06'
 identifiers:
   gutenberg: '67783'
